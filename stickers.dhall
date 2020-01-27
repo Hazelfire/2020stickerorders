@@ -10,13 +10,13 @@
        },
        { name = "Die cut stickers" 
        , amount = 50
-       , cost = 95
+       , cost = 78
        , design = "TPC/TPCText.png"
        , size = 50
        },
        { name = "Die cut stickers" 
        , amount = 50
-       , cost = 95
+       , cost = 78
        , design = "TPC/TPCComputer.png"
        , size = 50
        }
